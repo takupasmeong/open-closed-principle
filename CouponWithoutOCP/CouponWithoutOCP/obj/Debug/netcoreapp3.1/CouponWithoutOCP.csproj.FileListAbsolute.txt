@@ -1,0 +1,13 @@
+D:\kuliah\semester-3\pemrograman-lanjut\OpenClosedPrinciple\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.exe
+D:\kuliah\semester-3\pemrograman-lanjut\OpenClosedPrinciple\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.deps.json
+D:\kuliah\semester-3\pemrograman-lanjut\OpenClosedPrinciple\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.runtimeconfig.json
+D:\kuliah\semester-3\pemrograman-lanjut\OpenClosedPrinciple\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.runtimeconfig.dev.json
+D:\kuliah\semester-3\pemrograman-lanjut\OpenClosedPrinciple\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.dll
+D:\kuliah\semester-3\pemrograman-lanjut\OpenClosedPrinciple\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.pdb
+D:\kuliah\semester-3\pemrograman-lanjut\OpenClosedPrinciple\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.csprojAssemblyReference.cache
+D:\kuliah\semester-3\pemrograman-lanjut\OpenClosedPrinciple\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.AssemblyInfoInputs.cache
+D:\kuliah\semester-3\pemrograman-lanjut\OpenClosedPrinciple\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.AssemblyInfo.cs
+D:\kuliah\semester-3\pemrograman-lanjut\OpenClosedPrinciple\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.csproj.CoreCompileInputs.cache
+D:\kuliah\semester-3\pemrograman-lanjut\OpenClosedPrinciple\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.dll
+D:\kuliah\semester-3\pemrograman-lanjut\OpenClosedPrinciple\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.pdb
+D:\kuliah\semester-3\pemrograman-lanjut\OpenClosedPrinciple\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.genruntimeconfig.cache
